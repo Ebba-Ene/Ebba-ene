@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**Ebba-Ene/Ebba-ene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">My name is <strong>Ebba Eneqvist</strong> and I'm a future Fullstack Developer from Sweden 🇸🇪</p>
 
-Here are some ideas to get you started:
+<div align="left">
+  <a href="https://www.linkedin.com/in/ebba-eneqvist-5b883b343/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+- 🔭 I’m currently studying to become a Fullstack Developer at Nackademin.
+- 📚 I'm focusing on the JavaScript ecosystem and modern web technologies.
+- ⚡ In my free time, I love to code, puzzle, game, and read books.
+
+---
+
+## 🛠 My Tech Stack
+
+### Frontend & Design
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma)](https://skillicons.dev)
+
+### Backend & Database
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,typescript)](https://skillicons.dev)
+
+### Tools & Workflow
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)](https://skillicons.dev)
+
+---
+
+### 🚀 Highlighted Projects
+
+* **[Productivity Assistant](https://github.com/Ebba-Ene/projektarbete-productivity-assistant-application)** – A collaborative frontend application built with **React**.
+  * 🔗 **[Try the Live Demo!](https://projektarbete-productivity-assistan-six.vercel.app/login)**
+
+* **[Webshop Backend](https://github.com/desireestrand/webbshop-2026-be)** – A collaborative fullstack project focusing on a robust **Node.js** backend.
+  * 🔗 **[Try the Live Demo!](https://plot-twist-grupp-2.vercel.app/index.html)**
