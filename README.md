@@ -34,7 +34,7 @@
 ### 🚀 Highlighted Projects
 
 * **[Productivity Assistant](https://github.com/Ebba-Ene/projektarbete-productivity-assistant-application)** – A collaborative frontend application built with **React**.
-  * 🔗 **[Try the Live Demo!]([https://projektarbete-productivity-assistan-six.vercel.app/login](https://projektarbete-productivity-assistan-six.vercel.app/login))**
+  * 🔗 **[Try the Live Demo!](https://projektarbete-productivity-assistan-six.vercel.app/)**
 
 * **[Webshop Backend](https://github.com/desireestrand/webbshop-2026-be)** – A collaborative fullstack project focusing on a robust **Node.js** backend.
   * 🔗 **[Try the Live Demo!](https://plot-twist-grupp-2.vercel.app/index.html)**
