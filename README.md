@@ -3,7 +3,7 @@
 <p align="left">My name is <strong>Ebba Eneqvist</strong> and I'm a future Fullstack Developer from Sweden 🇸🇪</p>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ebba-eneqvist-5b883b343/">
+  <a href="https://www.linkedin.com/in/ebba-eneqvist-5b883b343/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
@@ -24,7 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 ### Backend & Database
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb)](https://skillicons.dev)
 
 ### Tools & Workflow
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)](https://skillicons.dev)
