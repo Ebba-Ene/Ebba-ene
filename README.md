@@ -20,8 +20,8 @@
 
 ## 🛠 My Tech Stack
 
-### Frontend & Design
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma)](https://skillicons.dev)
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 ### Backend & Database
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,typescript)](https://skillicons.dev)
